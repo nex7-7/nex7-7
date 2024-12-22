@@ -60,10 +60,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nex7-7&layout=compact&theme=radical)  
 
 ---
-
-## 📬 **Get in Touch**  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **GitHub:** [github.com/Snehil-Sinha](https://github.com/Snehil-Sinha)  
-- **Portfolio:** [Your Portfolio Link](#)  
-
----
