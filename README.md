@@ -44,6 +44,7 @@
 ---
 
 ## 🌟 **Notable Achievements**  
+- Authored "High-Performance File Searching with Rust: Parallelized Indexing for Enhanced Computational Efficiency," accepted at IEEE IATMSI 2025.
 - *Winner of Special Prize Polariser 2023* for Particle Detector  
 
 ---
